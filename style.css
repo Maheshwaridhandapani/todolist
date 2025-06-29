@@ -1,0 +1,51 @@
+
+.imgg{
+   width: 100%;
+   height: 1090px;
+  background-image: url("todo4.jpeg"); 
+  background-size: cover; 
+  background-position: center; 
+  position: relative; 
+}
+.btn{
+    font-size:40px;
+    width: 150px;
+    height: 80px;
+   
+    
+}
+.img1 {
+  
+  width: 200px;
+  height: 150px; 
+  position: absolute; 
+  top: 500px; 
+  left: 500px;
+}
+
+.dii{
+    width: 650px;
+    height: 250px;
+    background-color:rgb(222, 192, 197) ;
+    position: absolute;
+  font-size: 30px;
+    top: 0px;
+    left: 400px;
+    color: black;
+    border-radius: 45px;
+    text-align: center;
+   
+}
+.btnn{
+    width: 200px;
+    height: 20px;
+    background-color:rgb(224, 124, 141);
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.tex{
+   margin-top: 40px;
+}
+
+
